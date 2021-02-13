@@ -1,0 +1,25 @@
+
+    [{
+        "question":"what is html stands for",
+        "choice1":"smnl",
+        "choice2":"djsk",
+        "choice3":"jdhihu",
+        "choice4":"Hyper text transfer protocol",
+        "answer":4
+    },
+    {
+        "question":"how many headings are there",
+        "choice1":"1",
+        "choice2":"6",
+        "choice3":"4",
+        "choice4":"Hyper text transfer protocol",
+        "answer":2
+    },
+    {
+        "question":"what is html h6 tag",
+        "choice1":"heading",
+        "choice2":"djsk",
+        "choice3":"jdhihu",
+        "choice4":"Hyper text transfer protocol",
+        "answer":1
+    }]

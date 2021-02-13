@@ -1,0 +1,22 @@
+body{
+    background-color:skyblue
+}
+.container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:100vh
+}
+.buttons{
+    display:flex;
+    flex-direction: column;
+}
+button{
+    margin-bottom:10px;   
+    width:100px;
+    color:skyblue
+}
+h1{
+    color:black
+}
